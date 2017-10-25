@@ -1,0 +1,2 @@
+(A,A2->A0) ==> (D,D1->D2)   [Support:- 2 & New Confidence:- 100% & Old Confidence:- 100%]
+(A,A1->A0) ==> (D,D1->D2)   [Support:- 2 & New Confidence:- 100% & Old Confidence:- 100%]
